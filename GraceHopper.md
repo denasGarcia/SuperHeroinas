@@ -1,0 +1,1 @@
+Grace Hopper fue una científica de la computación. Nació en Estados Unidos en 1906. Entre sus trabajos más importantes se encuentra el desarrollo de la máquina Mark I durante la Segunda Guerra Mundial, y el lenguaje de programación COBOL.
