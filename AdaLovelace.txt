@@ -1,0 +1,1 @@
+Ada Lovelace es considerada la primera programadora. Nació en 1815, en Londres; hija del poeta lord Byron. Desarrolló lo que es considerado como el primer algoritmo para ser ejecutado por una computadora. Pensó en las capacidades de una computadora, en que ésta no sólo podría hacer calculos, sino muchas otras cosas siempre y cuando uno supiera indicarle a la máquina cómo hacerlo.
